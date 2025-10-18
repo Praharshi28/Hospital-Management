@@ -23,3 +23,15 @@ The Hospital Management System (HMS) is a comprehensive software application des
 📊 Reporting & Analytics Dashboard
 
 🔔 Notifications and Alerts
+
+📈 Future Improvements
+
+Mobile App Integration
+
+Inventory & Pharmacy Module
+
+Insurance Claims Handling
+
+AI-based Diagnosis Support
+
+Integration with wearable devices
